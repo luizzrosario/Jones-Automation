@@ -1,0 +1,4 @@
+#.screenshots/
+#.errors/
+
+# Since one of the requirements is to include screenshots in the documentation, this folder should be tracked. But, I wouldn't want to clutter the repository with too many screenshots. So, I will only include the most relevant ones.

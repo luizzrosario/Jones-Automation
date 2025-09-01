@@ -23,7 +23,7 @@ Install dependencies:
 
 Run the test suite:
 
-    node index.js
+    node testRun.js
 
 ## Output
 

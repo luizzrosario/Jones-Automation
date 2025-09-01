@@ -17,13 +17,13 @@
 
 Install dependencies:
 
-    ``npm install puppeteer``
+    npm install puppeteer
 
 ## Run Tests
 
 Run the test suite:
 
-    ``node index.js``
+    node index.js
 
 ## Output
 
